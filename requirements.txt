@@ -1,0 +1,8 @@
+# Required
+PyQt6>=6.4.0
+
+# Required for audio conversion (sample rate / bit depth changes)
+# Install with: pip install soundfile resampy numpy
+soundfile>=0.12.0
+resampy>=0.4.0
+numpy>=1.23.0
